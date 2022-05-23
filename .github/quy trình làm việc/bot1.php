@@ -1,4 +1,3 @@
-<?php
 
 
 
@@ -19,8 +18,8 @@ $enddate = strtotime("+6 weeks",$startdate);
 $ng= date("D");
 $ngay1= date("Y");
 $thang= date("m");
-$nam= date("d");
-$ngay= date("Y/m/d");
+$  nam  =   date ( "d"
+$  ngay  =   date ( "Y / m / d" );
 $den="\033[1;90m";
 $do="\033[1;91m";
 $luc="\033[1;92m";
